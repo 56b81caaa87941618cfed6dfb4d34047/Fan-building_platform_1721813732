@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have specific shades of red and blue in mind for the background color?\", \"option1\": \"Yes, I can provide the exact hex codes.\", \"option2\": \"No, any shades that work well together are fine.\"}, {\"question 2\": \"Should the background be a gradient combining red and blue, or do you prefer separate sections for each color?\", \"option1\": \"Use a gradient.\", \"option2\": \"Separate sections for each color.\"}], \"input_token_count\": 260, \"output_token_count\": 109, \"time_taken\": \"0:00:03.586688\"}",
+        "message_id": "guest24072024111719",
+        "timestamp": "24072024111726",
+        "component_file_name": "simple_footer_component_1721813733",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, working on changing the background color to red and blue.",
         "message_id": "guest24072024111719",
