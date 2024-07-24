@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Freedom' button to be located within the app?\", \"option1\": \"On the main screen, easily accessible.\", \"option2\": \"In a specific section, related to user settings or information.\"}, {\"question 2\": \"What function should the 'Freedom' button perform when clicked?\", \"option1\": \"Take the user to a new page with detailed information.\", \"option2\": \"Trigger a specific action or download within the app.\"}], \"input_token_count\": 258, \"output_token_count\": 109, \"time_taken\": \"0:00:04.088038\"}",
+        "message_id": "guest24072024114655",
+        "timestamp": "24072024114702",
+        "component_file_name": "simple_cta_component_1721820913",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, adding a button with the text Freedom.",
         "message_id": "guest24072024114655",
