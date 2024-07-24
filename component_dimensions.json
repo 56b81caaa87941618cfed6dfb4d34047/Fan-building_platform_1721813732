@@ -18,25 +18,6 @@
         "isResizable": true,
         "name": ""
     },
-    "simple_hero_component_1721813733.js": {
-        "component_name": "simple_hero_component",
-        "id": "simple_hero_component_1721813733",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 11,
-        "h": 29,
-        "x": 0,
-        "y": 30,
-        "i": "0",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true,
-        "name": ""
-    },
     "simple_footer_component_1721813733.js": {
         "component_name": "simple_footer_component",
         "id": "simple_footer_component_1721813733",
