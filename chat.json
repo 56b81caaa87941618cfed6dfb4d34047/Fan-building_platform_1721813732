@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Great, adding a button with the text Freedom.",
+        "message_id": "guest24072024114655",
+        "timestamp": "24072024114658",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Freedom",
         "message_id": "guest24072024114655",
