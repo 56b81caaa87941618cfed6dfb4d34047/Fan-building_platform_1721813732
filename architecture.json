@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "change the background color to red and blue"
+    },
+    {
+        "level": 1,
+        "task_description": "change the background color to red and blue"
     }
 ]
