@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Freedom' button to be located within the app?\", \"option1\": \"On the main screen, easily accessible.\", \"option2\": \"In a specific section, related to user settings or information.\"}, {\"question 2\": \"What function should the 'Freedom' button perform when clicked?\", \"option1\": \"Take the user to a new page with detailed information.\", \"option2\": \"Trigger a specific action or download within the app.\"}], \"input_token_count\": 258, \"output_token_count\": 109, \"time_taken\": \"0:00:04.088038\"}",
         "timestamp": "24072024114702",
         "message_id": "guest24072024114655"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Hover effect on the Freedom button for better visual feedback\", \"checked\": true}, {\"feature\": \"Add tooltips to the Freedom button explaining its purpose\", \"checked\": false}, {\"feature\": \"Implement an animation for the Freedom button on click\", \"checked\": true}, {\"feature\": \"Enable/disable feature for the Freedom button based on user privileges\", \"checked\": false}, {\"feature\": \"Dynamic text change for the Freedom button based on user actions\", \"checked\": true}, {\"feature\": \"Accessibility features for the Freedom button, like keyboard navigation and screen reader support\", \"checked\": false}], \"input_token_count\": 212, \"output_token_count\": 125, \"time_taken\": \"0:00:05.309096\"}",
+        "timestamp": "24072024114703",
+        "message_id": "guest24072024114655"
     }
 ]
