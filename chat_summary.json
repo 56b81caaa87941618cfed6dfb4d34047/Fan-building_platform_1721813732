@@ -36,5 +36,11 @@
         "content": "add a button with text Freedom",
         "timestamp": "24072024114657",
         "message_id": "guest24072024114655"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great, adding a button with the text Freedom.",
+        "timestamp": "24072024114658",
+        "message_id": "guest24072024114655"
     }
 ]
