@@ -36,23 +36,5 @@
         "isDraggable": true,
         "isResizable": true,
         "name": ""
-    },
-    "sign_up_with_name_email_password_1721820555.js": {
-        "id": "sign_up_with_name_email_password-399ddae8-888c-3253-b6fb-4221c08e3478",
-        "name": "sign_up_with_name_email_password",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 7,
-        "h": 7,
-        "x": "50",
-        "y": "50",
-        "i": "__dropping-elem__",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true
     }
 }
